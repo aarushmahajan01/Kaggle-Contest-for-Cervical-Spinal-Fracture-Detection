@@ -1,4 +1,4 @@
-# Kaggle Contest to build machine learning models that match radiologists' performance in detecting and localizing fractures in the seven vertebrae of the cervical # spine in CT scans
+# Kaggle Contest to build machine learning models that match radiologists' performance in detecting and localizing fractures in the seven vertebrae of the cervical spine in CT scans
 
 Submitted by: Aarush Mahajan on 17th October, 2022 
 
